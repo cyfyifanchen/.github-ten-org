@@ -51,7 +51,7 @@ We welcome all forms of open-source collaboration! Whether you're fixing bugs, a
 [ten-framework-link]: https://github.com/ten-framework/ten_framework
 [ten-agent-link]: https://github.com/ten-framework/ten-agent
 [tman-designer-link]: https://github.com/ten-framework/tman-designer
-[ten-docs-link]: https://docs.theten.ai
+[ten-docs-link]: https://doc.theten.ai
 
 [ten-framework-banner]: https://github.com/TEN-framework/docs/blob/main/assets/jpg/1.jpg?raw=true
 [ten-agent-banner]: https://github.com/TEN-framework/docs/blob/main/assets/jpg/3.jpg?raw=true
