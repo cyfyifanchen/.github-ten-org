@@ -28,15 +28,15 @@ By adopting the Bootstrapping approach, we aim to provide developers and users w
 Whether for users or professional developers, TEN Framework will be your AI development playground.
 
 > \[!IMPORTANT]
-> If you like TEN, feel free to star on our projects below
+> If you like TEN, feel free to star on all of our projects below ❤ ️
 
 ### ⭐️ TEN Ecosystem
 
 | [**🏚️ TEN Framework**][ten-framework-link]<br/>TEN, a AI agent framework to create various AI agents which supports real-time conversation.<br/><br/>![][ten-framework-shield] | ![][ten-framework-banner] |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
 | [**🎙️ TEN Agent**][ten-agent-link]<br/>TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like seeing, hearing, and speaking, and is fully compatible with platforms like Dify and Coze.<br/><br/>![][ten-agent-shield]                                                                           | ![][ten-agent-banner] |
-| [**🎨 TMAN Designer**][tman-designer-link] `coming soon`<br/>TMAN Designer is low/no code option to make a cool voice agent. With it's easy-to-use workflow UI, you can build things easily. It comes with runtime, dark/light themes, integrated editors and integrated terminals.<br/><br/>![][tman-designer-shield]                 | ![][tman-designer-banner] |
-| [**📒 TEN Dcos**][ten-docs-link]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>![][ten-docs-shield]                       | ![][ten-docs-banner]   |
+| [**🎨 TMAN Designer**][tman-designer-link] `Alpha`<br/>TMAN Designer is low/no code option to make a cool voice agent. With it's easy-to-use workflow UI, you can build things easily. It comes with runtime, dark/light themes, integrated editors and integrated terminals.<br/><br/>![][tman-designer-shield]                 | ![][tman-designer-banner] |
+| [**📒 TEN Docs**][ten-docs-link]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>![][ten-docs-shield]                       | ![][ten-docs-banner]   |
 
 
 ### 🤝 Contributing
