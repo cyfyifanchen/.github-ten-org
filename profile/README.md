@@ -1,6 +1,6 @@
 <div align="center">
 
-[![TEN Framework Banner Image](https://github.com/TEN-framework/docs/blob/main/assets/jpg/ten-banner.jpg?raw=true)](https://theten.ai)
+[![TEN Framework Banner Image](https://ten-framework-assets.s3.us-east-1.amazonaws.com/ten-banner.jpg)](https://theten.ai)
 
 [![Follow on X](https://img.shields.io/twitter/follow/TenFramework?logo=X&color=%20%23f5f5f5)](https://twitter.com/intent/follow?screen_name=TenFramework)
 [![Discussion posts](https://img.shields.io/github/discussions/TEN-framework/ten_framework?labelColor=%20%23FDB062&color=%20%23f79009)](https://github.com/TEN-framework/ten_framework/discussions/)
@@ -51,17 +51,18 @@ We welcome all forms of open-source collaboration! Whether you're fixing bugs, a
 
 <br>
 
+[back-to-top]: https://img.shields.io/badge/-Back_to_top-gray?style=flat-square
 
 [ten-framework-shield]: https://img.shields.io/github/stars/ten-framework/ten_framework?color=ffcb47&labelColor=gray&style=flat-square&logo=github
 [ten-agent-shield]: https://img.shields.io/github/stars/ten-framework/ten-agent?color=ffcb47&labelColor=gray&style=flat-square&logo=github
 [tman-designer-shield]: https://img.shields.io/github/stars/ten-framework/ten_ai_base?color=ffcb47&labelColor=gray&style=flat-square&logo=github
-[ten-docs-shield]: https://img.shields.io/github/stars/ten-framework/docs?color=ffcb47&labelColor=gray&style=flat-square&logo=github
+[ten-docs-shield]: https://img.shields.io/github/stars/ten-framework/portal?color=ffcb47&labelColor=gray&style=flat-square&logo=github
 
 [ten-framework-link]: https://github.com/ten-framework/ten_framework
 [ten-agent-link]: https://github.com/ten-framework/ten-agent
 
-[ten-framework-banner]: https://github.com/TEN-framework/docs/blob/main/assets/new/ten-portal.jpeg?raw=true
-[ten-agent-banner]: https://github.com/TEN-framework/docs/blob/main/assets/new/ten-agent.jpeg?raw=true
-[tman-designer-banner]: https://github.com/TEN-framework/docs/blob/main/assets/new/tman-manager.jpeg?raw=true
-[ten-docs-banner]: https://github.com/TEN-framework/docs/blob/main/assets/new/ten-doc.jpeg?raw=true
+[ten-framework-banner]: https://ten-framework-assets.s3.us-east-1.amazonaws.com/ten-portal.jpeg
+[ten-agent-banner]: https://ten-framework-assets.s3.us-east-1.amazonaws.com/ten-agent.jpeg
+[tman-designer-banner]: https://ten-framework-assets.s3.us-east-1.amazonaws.com/tman-manager.jpeg
+[ten-docs-banner]: https://ten-framework-assets.s3.us-east-1.amazonaws.com/ten-doc.jpeg
 
