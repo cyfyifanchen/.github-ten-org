@@ -43,7 +43,6 @@ TEN is a collection of open-source projects for building real-time, multimodal c
 > Get instant notifications for new releases and updates. Your support helps us grow and improve TEN!
 
 <br>
-<br>
 
 ## 🌏 TEN Ecosystem
 
